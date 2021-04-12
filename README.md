@@ -1,1 +1,1 @@
-# frequentist-inference
+# case studies
